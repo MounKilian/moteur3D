@@ -1,0 +1,26 @@
+# ninja log v6
+62	809	7929370050949996	src/CMakeFiles/glfw.dir/vulkan.c.obj	e799bdabef1d17ea
+51	1062	7929370050830528	src/CMakeFiles/glfw.dir/platform.c.obj	e8baf40bc9366dd8
+71	1080	7929370051031464	src/CMakeFiles/glfw.dir/window.c.obj	3ea1b3d9c9804805
+41	1102	7929370050749736	src/CMakeFiles/glfw.dir/monitor.c.obj	773dedac237b710e
+16	1120	7929370050500798	src/CMakeFiles/glfw.dir/context.c.obj	527a3f32b8b19e2c
+25	1144	7929370050587292	src/CMakeFiles/glfw.dir/init.c.obj	4b3e6a0a6bc57de4
+80	1170	7929370051130131	src/CMakeFiles/glfw.dir/egl_context.c.obj	b94744f396044529
+33	1313	7929370050668770	src/CMakeFiles/glfw.dir/input.c.obj	a2f311b93b875924
+91	1328	7929370051254483	src/CMakeFiles/glfw.dir/osmesa_context.c.obj	a189d22adaa15817
+1063	1753	7929370060970509	src/CMakeFiles/glfw.dir/null_monitor.c.obj	9b6a260071f09ad0
+1103	1769	7929370061366031	src/CMakeFiles/glfw.dir/null_joystick.c.obj	4c5b6d5f7f744c15
+1080	1786	7929370061148683	src/CMakeFiles/glfw.dir/null_window.c.obj	ea67de50f8b2cd4f
+1144	1923	7929370061797971	src/CMakeFiles/glfw.dir/win32_time.c.obj	d8e4f42438063f56
+1171	1943	7929370062056805	src/CMakeFiles/glfw.dir/win32_thread.c.obj	700850796fa38184
+1121	1948	7929370061550830	src/CMakeFiles/glfw.dir/win32_module.c.obj	ef5ecd7ce40c00c1
+1045	1953	7929370060799702	src/CMakeFiles/glfw.dir/null_init.c.obj	20f133fa7257847e
+1314	2144	7929370063458225	src/CMakeFiles/glfw.dir/win32_init.c.obj	f2cbc8d026ed99c1
+1924	2177	7929370069576688	src/CMakeFiles/glfw.dir/glfw.rc.res	44bd6c76fffb24d4
+1335	2472	7929370063695684	src/CMakeFiles/glfw.dir/win32_joystick.c.obj	a90b7a75d421b032
+1754	2710	7929370067886139	src/CMakeFiles/glfw.dir/win32_monitor.c.obj	fee41c318892d743
+1787	2718	7929370068143474	src/CMakeFiles/glfw.dir/wgl_context.c.obj	383fb00986119fff
+1769	2723	7929370068042464	src/CMakeFiles/glfw.dir/win32_window.c.obj	79da7baba9fa3bfa
+2723	4137	7929370090856407	src/glfw3.dll	639aa8fb5472a8cb
+2723	4137	7929370090856407	src/glfw3dll.lib	639aa8fb5472a8cb
+4138	4345	7929370091711243	CMakeFiles/install.util	cfd0141d2d823438

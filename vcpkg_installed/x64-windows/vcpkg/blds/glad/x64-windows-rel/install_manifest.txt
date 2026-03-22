@@ -1,0 +1,7 @@
+D:/C++/cpp3D/vcpkg_installed/x64-windows/vcpkg/pkgs/glad_x64-windows/lib/glad.lib
+D:/C++/cpp3D/vcpkg_installed/x64-windows/vcpkg/pkgs/glad_x64-windows/include/glad/glad.h
+D:/C++/cpp3D/vcpkg_installed/x64-windows/vcpkg/pkgs/glad_x64-windows/include/KHR/khrplatform.h
+D:/C++/cpp3D/vcpkg_installed/x64-windows/vcpkg/pkgs/glad_x64-windows/lib/cmake/glad/gladConfig.cmake
+D:/C++/cpp3D/vcpkg_installed/x64-windows/vcpkg/pkgs/glad_x64-windows/lib/cmake/glad/gladConfigVersion.cmake
+D:/C++/cpp3D/vcpkg_installed/x64-windows/vcpkg/pkgs/glad_x64-windows/lib/cmake/glad/gladTargets.cmake
+D:/C++/cpp3D/vcpkg_installed/x64-windows/vcpkg/pkgs/glad_x64-windows/lib/cmake/glad/gladTargets-release.cmake

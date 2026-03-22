@@ -1,0 +1,26 @@
+# ninja log v6
+50	933	7929369980072866	src/CMakeFiles/glfw.dir/platform.c.obj	1693ba63925782b2
+85	969	7929369980391210	src/CMakeFiles/glfw.dir/osmesa_context.c.obj	b4f3a16825a03bc7
+16	987	7929369979715510	src/CMakeFiles/glfw.dir/context.c.obj	6e4527c9e91af1f9
+41	1006	7929369979981744	src/CMakeFiles/glfw.dir/monitor.c.obj	ea448f527a8532b3
+32	1028	7929369979851946	src/CMakeFiles/glfw.dir/input.c.obj	9ea6def74ec7486f
+59	1052	7929369980163597	src/CMakeFiles/glfw.dir/vulkan.c.obj	fec583b658bda278
+75	1069	7929369980313491	src/CMakeFiles/glfw.dir/egl_context.c.obj	ea4e19c96e3aab12
+67	1088	7929369980253254	src/CMakeFiles/glfw.dir/window.c.obj	86c79ebeb9b2c9f6
+25	1111	7929369979780676	src/CMakeFiles/glfw.dir/init.c.obj	64894c54b3573805
+969	1653	7929369989241911	src/CMakeFiles/glfw.dir/null_monitor.c.obj	59927dff27349462
+988	1667	7929369989459357	src/CMakeFiles/glfw.dir/null_window.c.obj	5fb63448716e124b
+1028	1680	7929369989851289	src/CMakeFiles/glfw.dir/win32_module.c.obj	7c4383d52cb37777
+1182	2013	7929369991393903	src/CMakeFiles/glfw.dir/win32_joystick.c.obj	a1f601b9d406bb82
+1053	2081	7929369990109778	src/CMakeFiles/glfw.dir/win32_time.c.obj	3a812350f303f5f0
+1007	2085	7929369989632384	src/CMakeFiles/glfw.dir/null_joystick.c.obj	6b3d05c3011e107d
+957	2089	7929369989083781	src/CMakeFiles/glfw.dir/null_init.c.obj	78731a94c99a58c7
+1089	2093	7929369990457494	src/CMakeFiles/glfw.dir/win32_init.c.obj	97b031faa0bd9a4f
+1070	2097	7929369990270737	src/CMakeFiles/glfw.dir/win32_thread.c.obj	2eaf41fb7a8a64f8
+1653	2141	7929369996044378	src/CMakeFiles/glfw.dir/win32_monitor.c.obj	60e863591b4dfea1
+1681	2354	7929369996386423	src/CMakeFiles/glfw.dir/wgl_context.c.obj	10dc90c5f2d33b4c
+1668	2379	7929369996203665	src/CMakeFiles/glfw.dir/win32_window.c.obj	b53cfb51c8b8740a
+2013	2419	7929369999664102	src/CMakeFiles/glfw.dir/glfw.rc.res	3211466aefaaa19e
+2425	6880	7929370045648221	src/glfw3.dll	3abf9e835e96b977
+2425	6880	7929370045648221	src/glfw3dll.lib	3abf9e835e96b977
+6881	7026	7929370048382708	CMakeFiles/install.util	4a7875837190a1e7

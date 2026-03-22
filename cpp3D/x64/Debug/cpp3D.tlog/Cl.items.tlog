@@ -1,0 +1,15 @@
+D:\C++\cpp3D\cpp3D\Camera.cpp;D:\C++\cpp3D\cpp3D\x64\Debug\Camera.obj
+D:\C++\cpp3D\cpp3D\cpp3D.cpp;D:\C++\cpp3D\cpp3D\x64\Debug\cpp3D.obj
+D:\C++\cpp3D\cpp3D\DirLight.cpp;D:\C++\cpp3D\cpp3D\x64\Debug\DirLight.obj
+D:\C++\cpp3D\cpp3D\Light.cpp;D:\C++\cpp3D\cpp3D\x64\Debug\Light.obj
+D:\C++\cpp3D\cpp3D\Material.cpp;D:\C++\cpp3D\cpp3D\x64\Debug\Material.obj
+D:\C++\cpp3D\cpp3D\Mesh.cpp;D:\C++\cpp3D\cpp3D\x64\Debug\Mesh.obj
+D:\C++\cpp3D\cpp3D\Parser.cpp;D:\C++\cpp3D\cpp3D\x64\Debug\Parser.obj
+D:\C++\cpp3D\cpp3D\PointLight.cpp;D:\C++\cpp3D\cpp3D\x64\Debug\PointLight.obj
+D:\C++\cpp3D\cpp3D\Shader.cpp;D:\C++\cpp3D\cpp3D\x64\Debug\Shader.obj
+D:\C++\cpp3D\cpp3D\Shadow.cpp;D:\C++\cpp3D\cpp3D\x64\Debug\Shadow.obj
+D:\C++\cpp3D\cpp3D\SpotLight.cpp;D:\C++\cpp3D\cpp3D\x64\Debug\SpotLight.obj
+D:\C++\cpp3D\cpp3D\Submesh.cpp;D:\C++\cpp3D\cpp3D\x64\Debug\Submesh.obj
+D:\C++\cpp3D\cpp3D\Texture.cpp;D:\C++\cpp3D\cpp3D\x64\Debug\Texture.obj
+D:\C++\cpp3D\cpp3D\VAO.cpp;D:\C++\cpp3D\cpp3D\x64\Debug\VAO.obj
+D:\C++\cpp3D\cpp3D\Window.cpp;D:\C++\cpp3D\cpp3D\x64\Debug\Window.obj

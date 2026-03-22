@@ -1,0 +1,8 @@
+# ninja log v6
+16	2286	7929369841135522	include/glad/glad.h	5808ce0b726cb404
+16	2286	7929369841135522	src/glad.c	5808ce0b726cb404
+16	2286	7929369841135522	D:/C++/cpp3D/vcpkg_installed/x64-windows/vcpkg/blds/glad/x64-windows-dbg/include/glad/glad.h	5808ce0b726cb404
+16	2286	7929369841135522	D:/C++/cpp3D/vcpkg_installed/x64-windows/vcpkg/blds/glad/x64-windows-dbg/src/glad.c	5808ce0b726cb404
+2287	5170	7929369842325403	CMakeFiles/glad.dir/src/glad.c.obj	d922151e399dcf32
+5172	5916	7929369871213064	glad.lib	e48c6ababc8293e5
+5916	6144	7929369878660435	CMakeFiles/install.util	57ed5ef772124ad4

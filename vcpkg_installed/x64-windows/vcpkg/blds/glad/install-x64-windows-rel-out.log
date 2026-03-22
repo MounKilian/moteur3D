@@ -1,0 +1,21 @@
+Change Dir: 'D:/C++/cpp3D/vcpkg_installed/x64-windows/vcpkg/blds/glad/x64-windows-rel'
+
+Run Build Command(s): D:/VSC/produit/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v -v -j9 install
+[1/4] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\C++\cpp3D\vcpkg_installed\x64-windows\vcpkg\blds\glad\src\708967e402-274d415499.clean && C:\Users\kilia\AppData\Local\vcpkg\downloads\tools\python\python-3.12.7-x64-1\python.exe -m glad --profile=compatibility --out-path=D:/C++/cpp3D/vcpkg_installed/x64-windows/vcpkg/blds/glad/x64-windows-rel --api= --generator=c --extensions= --spec=gl --reproducible"
+[02/16/2026 10:23:08][INFO	][glad   	]: reproducible build, using packaged specification: 'gl.xml'
+[02/16/2026 10:23:08][INFO	][glad.files	]: opening 'gl.xml' from packaged path
+[02/16/2026 10:23:08][INFO	][glad   	]: generating 'gl' bindings: {'gl': None}
+[02/16/2026 10:23:08][INFO	][glad.files	]: opening 'khrplatform.h' from packaged path
+[02/16/2026 10:23:08][INFO	][glad   	]: generating 'gl' bindings - done
+[2/4] D:\VSC\produit\VC\Tools\MSVC\14.44.35207\bin\Hostx64\x64\cl.exe    -ID:\C++\cpp3D\vcpkg_installed\x64-windows\vcpkg\blds\glad\x64-windows-rel\include /nologo /DWIN32 /D_WINDOWS /utf-8 /MP  /MD /O2 /Oi /Gy /DNDEBUG /Z7 /showIncludes /FoCMakeFiles\glad.dir\src\glad.c.obj /FdCMakeFiles\glad.dir\glad.pdb /FS -c D:\C++\cpp3D\vcpkg_installed\x64-windows\vcpkg\blds\glad\x64-windows-rel\src\glad.c
+[3/4] C:\WINDOWS\system32\cmd.exe /C "cd . && D:\VSC\produit\VC\Tools\MSVC\14.44.35207\bin\Hostx64\x64\lib.exe  /machine:x64 /nologo /out:glad.lib CMakeFiles\glad.dir\src\glad.c.obj && cd ."
+[3/4] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\C++\cpp3D\vcpkg_installed\x64-windows\vcpkg\blds\glad\x64-windows-rel && C:\Users\kilia\AppData\Local\vcpkg\downloads\tools\cmake-3.30.1-windows\cmake-3.30.1-windows-i386\bin\cmake.exe -P cmake_install.cmake"
+-- Install configuration: "Release"
+-- Installing: D:/C++/cpp3D/vcpkg_installed/x64-windows/vcpkg/pkgs/glad_x64-windows/lib/glad.lib
+-- Installing: D:/C++/cpp3D/vcpkg_installed/x64-windows/vcpkg/pkgs/glad_x64-windows/include/glad/glad.h
+-- Installing: D:/C++/cpp3D/vcpkg_installed/x64-windows/vcpkg/pkgs/glad_x64-windows/include/KHR/khrplatform.h
+-- Installing: D:/C++/cpp3D/vcpkg_installed/x64-windows/vcpkg/pkgs/glad_x64-windows/lib/cmake/glad/gladConfig.cmake
+-- Installing: D:/C++/cpp3D/vcpkg_installed/x64-windows/vcpkg/pkgs/glad_x64-windows/lib/cmake/glad/gladConfigVersion.cmake
+-- Installing: D:/C++/cpp3D/vcpkg_installed/x64-windows/vcpkg/pkgs/glad_x64-windows/lib/cmake/glad/gladTargets.cmake
+-- Installing: D:/C++/cpp3D/vcpkg_installed/x64-windows/vcpkg/pkgs/glad_x64-windows/lib/cmake/glad/gladTargets-release.cmake
+
