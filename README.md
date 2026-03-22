@@ -1,4 +1,4 @@
-# Plateformer 2D 👾
+# 3D Motor 👾
 
 Welcome to my 3D project !
 
